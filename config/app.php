@@ -150,6 +150,8 @@ return [
 		//IDE helper
 		Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
+		//Frozennode admin panel
+		'Frozennode\Administrator\AdministratorServiceProvider',
 	],
 
 	/*
